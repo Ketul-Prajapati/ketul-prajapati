@@ -21,6 +21,4 @@
 </a>
 
 <h3 align="left">Statistics</h3>
-<p><img src="https://github-readme-stats.vercel.app/api?username=ketul-prajapati&show_icons=true&locale=en" alt="ketul-prajapati" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ketul-prajapati&" alt="ketul-prajapati" /></p>
