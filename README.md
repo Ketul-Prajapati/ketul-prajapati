@@ -4,12 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketul-prajapati&label=Profile%20views&color=0e75b6&style=flat" alt="ketul-prajapati" /> </p>
 
 - 🌱 I’m currently learning & explore new technologies in the computer world like
-          -**SpringBoot**
-          -**Artificial Intelligence and Machine Learning**
+           **SpringBoot, **
+          **Artificial Intelligence and Machine Learning.**
 
 - 💬 Ask me about **MERN | Java | Web Development | Mobile Application Development**
 
-- 📫 How to reach me **ketul.prajapati104@gmail.com**
+- 📫 Reach me at **ketul.prajapati104@gmail.com**
 
 
 <h3 align="left">Connect with me</h3>
