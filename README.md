@@ -1,10 +1,10 @@
 <h1 align="center">Hello 👋, I'm Ketul Prajapati</h1>
 <h3 align="center">A passionate MERN Stack and Java Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ketul-prajapati&label=Profile%20views&color=0e75b6&style=flat" alt="ketul-prajapati" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ketul-prajapati&label=Profile%20views&color=0e75b6&style=flat" alt="ketul-prajapati" /> </p>
 
 - 🌱 I’m currently learning & explore new technologies in the computer world like
-           **SpringBoot, **
+           **SpringBoot**,
           **Artificial Intelligence and Machine Learning.**
 
 - 💬 Ask me about **MERN | Java | Web Development | Mobile Application Development**
