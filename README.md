@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools</h3>
 <a href="https://skillicons.dev" margin-bottom=20px>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,mongodb,express,react,nodejs,redux,firebase,tailwind,vite,postman,vscode,git,github,androidstudio,bootstrap,flutter,dart,mysql,spring,python&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,mongodb,express,react,nodejs,redux,firebase,tailwind,vite,postman,vscode,git,github,androidstudio,bootstrap,flutter,dart,mysql,spring,python,azure,discord,eclipse,npm,sequelize&perline=10" />
 </a>
 
 <h3 align="left">Statistics</h3>
