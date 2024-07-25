@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketul-prajapati&label=Profile%20views&color=0e75b6&style=flat" alt="ketul-prajapati" /> </p>
 
-- 🌱 I’m currently learning **& explore new technologies in the computer world**
+- 🌱 I’m currently learning & explore new technologies in the computer world like
+          **SpringBoot**
+          **Artificial Intelligence and Machine Learning**
 
 - 💬 Ask me about **MERN | Java | Web Developement**
 
