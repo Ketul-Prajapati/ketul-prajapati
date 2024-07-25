@@ -22,3 +22,8 @@
 
 <h3 align="left">Statistics</h3>
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ketul-Prajapati&show_icons=true&locale=en&layout=compact" alt="Ketul-Prajapati" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=Ketul-Prajapati&show_icons=true&locale=en" alt="Ketul-Prajapati" /></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ketul-Prajapati&" alt="Ketul-Prajapati" /></p>
